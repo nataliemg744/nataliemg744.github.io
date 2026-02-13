@@ -1,2 +1,3 @@
-# nataliemg744.github.io
-GitHub.io portfolio website
+# Portfolio - Natalie Gardner
+## About Me
+
