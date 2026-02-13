@@ -3,11 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
 
-  {{ content }}
+  <nav>
+    <a href="/README">Home</a> |
+    <a href="/Projects">My Projects</a> |
+    <a href="/FutureProjects">Future Projects</a>
+    <a href="/ContactMe">Contact Me</a>
+  </nav>
+
+  <hr>
+
+  <main>
+    {{ content }}
+  </main>
 
 </body>
 </html>
