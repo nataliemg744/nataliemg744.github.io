@@ -1,4 +1,9 @@
-<p style="text-align:center;">Home | [Projects](Projects.md) | [Future Projects](FutureProjects.md) | [Contact Me](ContactMe.md) |</p>
+<center>
+  Home 
+  [Projects](Projects.md) 
+  [Future Projects](FutureProjects.md) 
+  [Contact Me](ContactMe.md) 
+</center>
 
 # Portfolio - Natalie Gardner
 ## About Me
