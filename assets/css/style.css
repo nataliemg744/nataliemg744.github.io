@@ -1,1 +1,13 @@
-/* customization */
+body {
+  background-color: #fcecd7;
+  font-family: 'Roboto', sans-serif;
+  color: #68553b;
+}
+
+h1 {
+  color: #4f0e29;
+}
+
+a {
+  color: #696969;
+}
